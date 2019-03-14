@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeSnippetsSwift/ViewController.swift"
+            timestampString = "538202984.962296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "restAutentication()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeSnippetsSwift/ViewController.swift"
+            timestampString = "538202984.962702"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "restAutentication()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeSnippetsSwift/ViewController.swift"
+            timestampString = "538202984.962943"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "506"
+            endingLineNumber = "506"
+            landmarkName = "alamofireAuthentication()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeSnippetsSwift.ViewController.alamofireAuthentication() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.819271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "506"
+                  endingLineNumber = "506"
+                  offsetFromSymbolStart = "907">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in CodeSnippetsSwift.ViewController.alamofireAuthentication() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.820998"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "507"
+                  endingLineNumber = "507"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeSnippetsSwift/ViewController.swift"
+            timestampString = "538202984.963209"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "543"
+            endingLineNumber = "543"
+            landmarkName = "alamofireAuthorization()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeSnippetsSwift.ViewController.alamofireAuthorization() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.825092"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "543"
+                  endingLineNumber = "543"
+                  offsetFromSymbolStart = "266">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.String&gt;) -&gt; () in CodeSnippetsSwift.ViewController.alamofireAuthorization() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.826755"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "544"
+                  endingLineNumber = "544"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeSnippetsSwift/ViewController.swift"
+            timestampString = "538202984.963454"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "566"
+            endingLineNumber = "566"
+            landmarkName = "alamofirePostCompany()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeSnippetsSwift.ViewController.alamofirePostCompany() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.830887"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "566"
+                  endingLineNumber = "566"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in CodeSnippetsSwift.ViewController.alamofirePostCompany() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.83257"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "567"
+                  endingLineNumber = "567"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeSnippetsSwift/ViewController.swift"
+            timestampString = "538202984.9636919"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "585"
+            endingLineNumber = "585"
+            landmarkName = "alamofireGetCompanies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeSnippetsSwift.ViewController.alamofireGetCompanies() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.8368061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "585"
+                  endingLineNumber = "585"
+                  offsetFromSymbolStart = "186">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in CodeSnippetsSwift.ViewController.alamofireGetCompanies() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.838501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "586"
+                  endingLineNumber = "586"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeSnippetsSwift/ViewController.swift"
+            timestampString = "538202984.967188"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "641"
+            endingLineNumber = "641"
+            landmarkName = "alamofireDownloadImage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeSnippetsSwift.ViewController.alamofireDownloadImage() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.842539"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "641"
+                  endingLineNumber = "641"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DownloadResponse&lt;Foundation.Data&gt;) -&gt; () in CodeSnippetsSwift.ViewController.alamofireDownloadImage() -&gt; ()"
+                  moduleName = "CodeSnippetsSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/paulosilva/Development/Apps/iOS/CodeSnippetsSwift/CodeSnippetsSwift/ViewController.swift"
+                  timestampString = "547324843.844202"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "642"
+                  endingLineNumber = "642"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeSnippetsSwift/ViewController.swift"
+            timestampString = "538202984.967621"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "670"
+            endingLineNumber = "670"
+            landmarkName = "alamofireDownloadImageTo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeSnippetsSwift/ViewController.swift"
+            timestampString = "538202984.968019"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "394"
+            endingLineNumber = "394"
+            landmarkName = "downloadImageTaskFromUrl(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

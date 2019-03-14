@@ -1,0 +1,6 @@
+framework module Pods_CodeSnippetsSwift {
+  umbrella header "Pods-CodeSnippetsSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
