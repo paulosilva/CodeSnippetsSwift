@@ -49,12 +49,12 @@ class BorderedFloatingTF: UITextField {
     
     @IBInspectable var placeHolderColor: UIColor = UIColor.white {
         didSet {
-            self.attributedPlaceholder = NSAttributedString(string:self.placeholder != nil ? self.placeholder! : "", attributes:[NSForegroundColorAttributeName: placeHolderColor])
+            self.attributedPlaceholder = NSAttributedString(string:self.placeholder != nil ? self.placeholder! : "", attributes:[NSAttributedString.Key.foregroundColor: placeHolderColor])
         }
     }
     
     func setup() {
-        borderStyle = UITextBorderStyle.none
+        borderStyle = UITextField.BorderStyle.none
         layer.borderWidth = CGFloat(borderWidth)
         layer.borderColor = borderColor.cgColor
         placeHolderColor = UIColor.white

@@ -58,7 +58,7 @@ class MyDelegatedViewController: UIViewController {
         navigationController?.dismiss(animated: true)
     }
     
-    func handleTap(_ tapGesture: UITapGestureRecognizer) {
+    @objc func handleTap(_ tapGesture: UITapGestureRecognizer) {
         
         view.backgroundColor = tapGesture.view?.backgroundColor
         
