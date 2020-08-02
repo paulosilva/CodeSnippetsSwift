@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Bucket
+   uuid = "542D7D57-E1BA-4236-B8A0-B7D8BAB44798"
    type = "0"
    version = "2.0">
    <Breakpoints>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "53D0D3D5-FC05-474B-81ED-E4D9271BD9F8"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -15,13 +17,14 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "84"
             endingLineNumber = "84"
-            landmarkName = "restAutentication()"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "A47DA547-C554-4924-9B58-B28D692B4013"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -31,13 +34,14 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "81"
             endingLineNumber = "81"
-            landmarkName = "restAutentication()"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "4273CD8D-013D-4653-97AC-9E4F19484577"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -47,10 +51,11 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "506"
             endingLineNumber = "506"
-            landmarkName = "alamofireAuthentication()"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
+                  uuid = "4273CD8D-013D-4653-97AC-9E4F19484577 - 9d23946af0d01779"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -66,6 +71,7 @@
                   offsetFromSymbolStart = "907">
                </Location>
                <Location
+                  uuid = "4273CD8D-013D-4653-97AC-9E4F19484577 - 5ae74812ce2cc37"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -86,6 +92,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "46405083-64EA-4223-92E6-15B7C130F007"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -95,10 +102,11 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "543"
             endingLineNumber = "543"
-            landmarkName = "alamofireAuthorization()"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
+                  uuid = "46405083-64EA-4223-92E6-15B7C130F007 - ee9e77a439f61433"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -114,6 +122,7 @@
                   offsetFromSymbolStart = "266">
                </Location>
                <Location
+                  uuid = "46405083-64EA-4223-92E6-15B7C130F007 - d23cc43bf2fb31de"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -134,6 +143,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "BA1B887B-869A-4BB2-88A1-C8D8D6D4E5C8"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -143,10 +153,11 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "566"
             endingLineNumber = "566"
-            landmarkName = "alamofirePostCompany()"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
+                  uuid = "BA1B887B-869A-4BB2-88A1-C8D8D6D4E5C8 - ec36edc95aff1725"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -162,6 +173,7 @@
                   offsetFromSymbolStart = "416">
                </Location>
                <Location
+                  uuid = "BA1B887B-869A-4BB2-88A1-C8D8D6D4E5C8 - d097f3120e95d8bb"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -182,6 +194,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "D1858695-784D-4C9C-A2ED-02B23C3245A8"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -191,10 +204,11 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "585"
             endingLineNumber = "585"
-            landmarkName = "alamofireGetCompanies()"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
+                  uuid = "D1858695-784D-4C9C-A2ED-02B23C3245A8 - 4f5ed2e8a8c48666"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -210,6 +224,7 @@
                   offsetFromSymbolStart = "186">
                </Location>
                <Location
+                  uuid = "D1858695-784D-4C9C-A2ED-02B23C3245A8 - 7afb98079b2da0c6"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -230,6 +245,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "AD88F6EB-E5FA-4CB3-9C6C-E3C7B22D8EEE"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -239,10 +255,11 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "641"
             endingLineNumber = "641"
-            landmarkName = "alamofireDownloadImage()"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
+                  uuid = "AD88F6EB-E5FA-4CB3-9C6C-E3C7B22D8EEE - bb956810ffc3c6c5"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -258,6 +275,7 @@
                   offsetFromSymbolStart = "17">
                </Location>
                <Location
+                  uuid = "AD88F6EB-E5FA-4CB3-9C6C-E3C7B22D8EEE - 9bfe5a35463919cb"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -278,6 +296,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "D82121DB-615C-4A27-A2EE-B0D3E6288766"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -287,13 +306,14 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "670"
             endingLineNumber = "670"
-            landmarkName = "alamofireDownloadImageTo()"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "B447B59B-0EC1-44FE-ADC4-9F8CE5586715"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -303,8 +323,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "394"
             endingLineNumber = "394"
-            landmarkName = "downloadImageTaskFromUrl(urlString:)"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
