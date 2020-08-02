@@ -738,7 +738,7 @@ class ViewController: UIViewController {
         // import Alamofire
         //
         
-        let imageData = UIImagePNGRepresentation(self.imageUpload!)!
+        let imageData = self.imageUpload!.pngData()!
         
         Alamofire.upload(imageData, to: "https://httpbin.org/post").responseJSON { response in
             debugPrint(response)
